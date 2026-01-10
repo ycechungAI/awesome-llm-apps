@@ -1,5 +1,5 @@
 langchain==0.3.12
-langchain-community==0.3.12
+langchain-community==0.3.27
 langchain-core==0.3.28
 qdrant-client==1.12.1
 streamlit>=1.29.0
