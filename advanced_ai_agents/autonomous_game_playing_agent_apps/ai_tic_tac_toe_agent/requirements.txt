@@ -160,7 +160,7 @@ python-dotenv==1.0.1
     #   -r cookbook/examples/apps/tic_tac_toe/requirements.in
     #   agno
     #   pydantic-settings
-python-multipart==0.0.20
+python-multipart==0.0.22
     # via agno
 pytz==2025.1
     # via pandas
