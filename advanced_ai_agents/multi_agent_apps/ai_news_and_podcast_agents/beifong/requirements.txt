@@ -154,7 +154,7 @@ primp==0.15.0
 prometheus_client==0.22.0
 propcache==0.3.1
 proto-plus==1.26.1
-protobuf==6.30.2
+protobuf==7.34.0rc1
 psycopg2-binary==2.9.10
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
