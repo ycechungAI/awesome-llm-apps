@@ -234,5 +234,5 @@ urllib3==2.3.0
     # via requests
 websockets==14.2
     # via google-genai
-wheel==0.45.1
+wheel==0.46.2
     # via pip-tools
