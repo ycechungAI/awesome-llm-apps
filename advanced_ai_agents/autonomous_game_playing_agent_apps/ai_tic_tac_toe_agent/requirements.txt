@@ -122,7 +122,7 @@ pip==25.0.1
     # via pip-tools
 pip-tools==7.4.1
     # via -r cookbook/examples/apps/tic_tac_toe/requirements.in
-protobuf==5.29.3
+protobuf==7.34.0rc1
     # via streamlit
 pyarrow==19.0.1
     # via streamlit
