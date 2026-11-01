@@ -3,7 +3,7 @@ import asyncio
 from typing import List
 from pydantic import BaseModel, Field
 from browser_use import Agent as BrowserAgent, Controller, BrowserSession, BrowserProfile
-from langchain_openai import ChatOpenAI
+from browser_use.llm import ChatOpenAI
 from dotenv import load_dotenv
 from agno.agent import Agent
 
