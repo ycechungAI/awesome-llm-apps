@@ -50,31 +50,6 @@ Works with Claude, Gemini, GPT, DeepSeek, Llama, Qwen and other open-source mode
   </tr>
 </table>
 
-## 🙏 Thanks to our sponsors
-
-<table align="center" cellpadding="16" cellspacing="12">
-  <tr>
-    <td align="center">
-      <a href="https://www.tinyfish.ai/ambassadors?utm_source=github&utm_medium=affiliate&utm_campaign=community-launch-marketing-2026q3&utm_term=awesomellmapps" target="_blank" rel="noopener" title="TinyFish">
-        <img src="docs/banner/sponsors/tinyfish_community.png" alt="TinyFish Community Programs: join the Students and Ambassadors programs" width="500">
-      </a>
-      <br>
-      <a href="https://www.tinyfish.ai/ambassadors?utm_source=github&utm_medium=affiliate&utm_campaign=community-launch-marketing-2026q3&utm_term=awesomellmapps" target="_blank" rel="noopener" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
-        TinyFish
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://sponsorunwindai.com/" title="Become a Sponsor">
-        <img src="docs/banner/sponsor_awesome_llm_apps.png" alt="Become a Sponsor" width="500">
-      </a>
-      <br>
-      <a href="https://sponsorunwindai.com/" style="text-decoration: none; color: #333; font-weight: bold; font-size: 18px;">
-        Become a Sponsor
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## 🚀 Run one now
 
 Give your coding agent a new skill in 10 seconds:
@@ -110,6 +85,14 @@ streamlit run travel_agent.py
 *   [🧠 Advisor Orchestrator Worker](agent_skills/advisor-orchestrator-worker/) - Meta Loop with Claude Fable 5.1 as advisor, GPT-6 Astra as orchestrator, and Gemini 3.8 Flash as worker
 *   [🎙️ Thinking Out Loud](agent_skills/thinking-out-loud/) - Echoes a voice ramble back as a scannable brief, with the model's guesses quarantined and your reversals flagged
 *   [♾️ Self-Improving Agent Skills](agent_skills/self-improving-agent-skills/) - Automatically optimize agent skills using Gemini and ADK
+
+### 🛠️ Standalone Apps & Tools
+
+*Standalone web apps, creative tools, and browser extensions for everyday workflows.*
+
+*   [✏️ Excaliflow - Hand-Drawn Diagrams with Live Animated Flows](advanced_llm_apps/excaliflow/) - Sketch system architectures and AI agent workflows on an Excalidraw-style canvas with live animated arrows and video export
+*   [🪡 Needle - A New Way to Find](advanced_llm_apps/needle/) - Search webpages by meaning and highlight the strongest source sentence, using a Chrome extension powered by TypeSafe Jev
+*   [🌀 Ripple - Change One Thing, Find What Else Needs to Change](advanced_llm_apps/ripple/) - Find related inconsistencies and suggested fixes as you edit a Google Doc, using TypeSafe Jev and Gemini
 
 ### 🌱 Starter AI Agents
 
@@ -248,13 +231,6 @@ streamlit run travel_agent.py
 *   [🖼️ Vision RAG](rag_tutorials/vision_rag/) - Ask questions about images and PDF pages with Embed-4
 *   [🩺 RAG Failure Diagnostics Clinic](rag_tutorials/rag_failure_diagnostics_clinic/) - Find out why your RAG pipeline is wrong, systematically
 *   [🕸️ Knowledge Graph RAG with Citations](rag_tutorials/knowledge_graph_rag_citations/) - Multi-hop answers with verifiable source attribution
-
-### 🔎 AI Browser Tools
-
-*Small tools that bring AI into everyday browsing.*
-
-*   [🪡 Needle - A New Way to Find](advanced_llm_apps/needle/) - Search webpages by meaning and highlight the strongest source sentence, using a Chrome extension powered by TypeSafe Jev
-*   [🌀 Ripple - Change One Thing, Find What Else Needs to Change](advanced_llm_apps/ripple/) - Find related inconsistencies and suggested fixes as you edit a Google Doc, using TypeSafe Jev and Gemini
 
 ### 💾 LLM Apps with Memory
 
